@@ -2,7 +2,7 @@
 
 A simple, responsive calculator built with HTML, Tailwind CSS and JavaScript.
 
-**Live Demo:** [View Project](https://nusratjahankaifa.github.io/Tailwind-Calculator/src/calculator.html)
+**Live Demo:** [View Project](https://nusratjahankaifa.github.io/Calculator-App-Tailwind/calculator.html)
 
 ## Features
 
@@ -18,7 +18,6 @@ HTML5, Tailwind CSS, JavaScript
 ## Project Structure
 
 ```
-src/
 ├── calculator.html   # Page structure
 ├── input.css         # Tailwind source file
 ├── output.css        # Compiled CSS
@@ -29,8 +28,8 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NusratJahanKaifa/Tailwind-Calculator.git
+   git clone https://github.com/NusratJahanKaifa/Calculator-App-Tailwind.git
    ```
-2. Open `src/calculator.html` in your browser.
+2. Open `calculator.html` in your browser.
 
 No installation is needed, since `output.css` is already compiled.
